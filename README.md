@@ -6,4 +6,4 @@ Language: Kotlin/Java.
 
 [SRS of programm](docs/SRS.md)
 
-[Mockups](Mockups)
+[Mockups](docs/Mockups)
