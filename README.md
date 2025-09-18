@@ -2,6 +2,6 @@
 This app allows you to conveniently plan your schedule.
 
 Operation system: Android
-Language: Java.
+Language: Kotlin/Java.
 
 [SRS of programm](docs/SRS.md)
