@@ -1,3 +1,3 @@
 # Диаграмма классов  
 
-![Диаграмма классов](https://github.com/DanutaGagua/Personal-film-collection-manager/blob/master/Diagrams/Images/ClassDiagram.png) 
+![Диаграмма классов](https://github.com/Bedroom123321/TaskManager/blob/main/docs/diagrams/Images/classes.png) 
